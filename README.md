@@ -1,4 +1,4 @@
-# Job Data Analysis with AMCAT
+# Job Data Analysis with AMCAT Dataset (EDA project on Engineering Graduates Employment Outcomes!) 
 
 ## Overview
 This repository contains a Jupyter notebook that performs data analysis on a dataset related to job roles and salaries, using the AMCAT dataset. The project involves data preprocessing, visualization, and basic statistical analysis to extract meaningful insights about various job-related factors.
@@ -36,3 +36,5 @@ The dataset (`AMCAT_data.csv`) includes the following fields:
    pip install pandas numpy matplotlib seaborn scipy
 3. Run the Jupyter notebook to explore the data and perform the analysis.
 
+## Jupyter Notebook Link
+http://localhost:8890/notebooks/innomatics/AMCAT.ipynb
